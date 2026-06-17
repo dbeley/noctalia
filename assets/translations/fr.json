@@ -96,7 +96,7 @@
       "text-title": "Entrée texte du presse-papiers",
       "truncated": "... tronqué"
     },
-    "title": "Prtesse-papiers"
+    "title": "Presse-papiers"
   },
   "common": {
     "actions": {
@@ -623,7 +623,7 @@
       "tooltip": {
         "health": "Santé",
         "rate": "Taux",
-        "status": "Status",
+        "status": "État",
         "time-left": "Temps restant",
         "time-to-full": "Temps avant charge complète"
       }
@@ -631,7 +631,7 @@
     "profiles": {
       "balanced": "Équilibré",
       "performance": "Performance",
-      "power-saver": "Economie d’énergie"
+      "power-saver": "Économie d’énergie"
     }
   },
   "session": {
@@ -640,7 +640,7 @@
       "lock": "Verrouiller",
       "lock-and-suspend": "Verrouiller et mettre en veille",
       "logout": "Se déconnecter",
-      "reboot": "Rallumer",
+      "reboot": "Redémarrer",
       "shutdown": "Éteindre",
       "suspend": "Mettre en veille"
     },
@@ -1042,8 +1042,8 @@
       },
       "screen-position": {
         "bottom-center": "Centre bas",
-        "bottom-left": "Centre gauche",
-        "bottom-right": "Centre droit",
+        "bottom-left": "Bas gauche",
+        "bottom-right": "Bas droit",
         "center-left": "Centre gauche",
         "center-right": "Centre droit",
         "top-center": "Haut centre",
@@ -1360,7 +1360,7 @@
         },
         "start-widgets": {
           "description": "Widgets en début (gauche/haut) de la barre",
-          "label": "Widgets initaux"
+          "label": "Widgets initiaux"
         },
         "thickness": {
           "description": "Épaisseur de la barre en pixels",
@@ -1683,8 +1683,8 @@
           "label": "Réduire la liste après fermeture"
         },
         "daemon": {
-          "description": "Active le daemon de notification intégré",
-          "label": "Daemon de notification"
+          "description": "Active le démon de notification intégré",
+          "label": "Démon de notification"
         },
         "filters": {
           "description": "Règles par expéditeur pour les notifications éphémères, l’historique et les sons ; le premier filtre activé correspondant est prioritaire",
@@ -1696,15 +1696,15 @@
         },
         "monitors": {
           "description": "Choisit les écrans qui affichent les toasts de notification ; laisser vide pour tout afficher",
-          "label": "Ecrans"
+          "label": "Écrans"
         },
         "offset-x": {
           "description": "Marge horizontale absolue depuis le bord de l'écran ou de la Bar",
-          "label": "Marge Horizontal"
+          "label": "Marge horizontale"
         },
         "offset-y": {
           "description": "Marge verticale absolue depuis le bord de l'écran ou de la Bar",
-          "label": "Marge Vertical"
+          "label": "Marge verticale"
         },
         "position": {
           "description": "Position sur l'écran pour les notifications",
@@ -1883,7 +1883,7 @@
         },
         "night-light": {
           "description": "Réchauffe les couleurs de l’écran la nuit",
-          "label": "Lumière nocture",
+          "label": "Lumière nocturne",
           "requires-gamma-control": "Le compositeur ne prend pas en charge le contrôle du gamma"
         },
         "night-temperature": {
